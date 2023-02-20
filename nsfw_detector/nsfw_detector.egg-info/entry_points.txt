@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        nsfw-predict=nsfw_detector.predict:main
-    
